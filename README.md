@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @harshraj8843
+
 - 👀 I’m interested in web development
 
-<!---
-harshraj8843/harshraj8843 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+[![harshraj8843's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshraj8843&count_private=true&show_icons=true)](https://github.com/harshraj8843)
+
+</div>
