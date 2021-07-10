@@ -2,8 +2,4 @@
 
 - 👀 I’m interested in web development
 
-<div align="center">
-
 [![harshraj8843's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshraj8843&count_private=true&show_icons=true)](https://github.com/harshraj8843)
-
-</div>
